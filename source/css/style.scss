@@ -447,6 +447,10 @@ code, pre {
     font-family: $family-mono;
 }
 
+code {
+    color: #4078f2;
+}
+
 figure.highlight {
     padding: 0;
     width: 100%;
@@ -629,6 +633,10 @@ figure.highlight {
         height: 100%;
         position: absolute;
     }
+}
+
+.border-0 {
+    border: 0;
 }
 
 @import "insight";
