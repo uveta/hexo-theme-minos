@@ -1,0 +1,5 @@
+# Navigation bar menu links.
+menu:
+  Blog: /archives
+  About: /about
+  Contact: /contact
